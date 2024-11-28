@@ -75,3 +75,8 @@ parts:
         title: Chi-Squared
     - file: probability/python
     - file: fundamentals/eemc-stuff
+
+  - caption: Test
+    chapters:
+    - file: test.ipynb
+    - file: test2
